@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1033352607821",
+    "firebase_url": "https://nahuel-crud-final-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nahuel-crud-final",
+    "storage_bucket": "nahuel-crud-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033352607821:android:59c62fa6973c685be54404",
+        "android_client_info": {
+          "package_name": "com.example.nahuelcrudfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQAlEGEzm5BjPAsJcmcKw1ScC3lfoA7_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
